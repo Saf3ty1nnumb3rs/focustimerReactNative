@@ -1,4 +1,8 @@
-# Sample Snack app
+# Pomodoro Timer on React Native
+
+This project is a simple pomodoro timer app built with React Native. This uses expo for quick development and testing. This was built on expo snack and then exported when it was ready to be built on a local machine.
+
+## Sample Snack app
 
 Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
 
